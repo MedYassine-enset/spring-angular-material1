@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>enset-demo-sprin-ang</artifactId>
+    <artifactId>spring-angular-material</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>enset-demo-sprin-ang</name>
     <description>enset-demo-sprin-ang</description>
